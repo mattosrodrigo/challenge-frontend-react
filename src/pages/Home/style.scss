@@ -1,0 +1,68 @@
+#characters {
+  max-width: 100vw;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  div.container {
+    flex-direction: column;
+    min-height: 100vh;
+
+    .containHeroCards {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+      grid-column-gap: 15px;
+      grid-row-gap: 52px;
+
+      span {
+        max-width: 270px;
+
+        .cardSkeleton {
+          width: 100%;
+          border-radius: 10px 30px !important;
+        }
+      }
+    }
+  }
+
+}
+
+.emptySearch {
+  h1 {
+    font-size: 2.625rem;
+    white-space: nowrap;
+    padding: 5rem;
+  }
+}
+
+.pagination {
+  display: flex;
+  justify-content: flex-end;
+  margin-left: auto;
+  margin-top: 23px;
+
+  @media (max-width:400px) {
+    justify-content: center;
+  }
+
+  ul {
+    color: var(--black-text-color);
+    font-size: 1.5rem;
+    font-weight: bold;
+    display: flex;
+    width: 100%;
+    column-gap: 0.4rem;
+    list-style: none;
+
+    @media (max-width:300px) {
+      font-size: 1.2rem;
+    }
+
+    li {
+      cursor: pointer;
+    }
+  }
+
+
+}

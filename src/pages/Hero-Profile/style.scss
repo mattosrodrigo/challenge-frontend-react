@@ -1,0 +1,13 @@
+#hero-profile {
+  margin-top: -280px;
+  z-index: 3;
+
+  @media (max-width: 450px) {
+    margin-top: -240px;
+  }
+
+  .container {
+    display: flex;
+    flex-direction: column !important;
+  }
+}

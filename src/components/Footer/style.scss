@@ -1,0 +1,45 @@
+Footer {
+  height: 82px;
+  max-width: 100vw;
+  display: block;
+  background: var(--dark-background);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 92px;
+
+  div.container {
+    justify-content: space-between;
+    color: white;
+
+
+
+    p {
+      font-family: var(--font-family);
+      font-weight: 400 !important;
+      font-size: 1.25rem;
+      font-style: normal;
+      line-height: 23px;
+      letter-spacing: 0em;
+      text-align: left;
+
+      a {
+        text-decoration: none;
+        color: var(--gray-link-color);
+      }
+    }
+
+    @media (max-width: 768px) {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+
+      p {
+        text-align: center;
+        font-size: 1rem;
+      }
+    }
+  }
+}

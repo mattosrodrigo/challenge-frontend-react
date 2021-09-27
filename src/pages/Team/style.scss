@@ -1,0 +1,14 @@
+#team {
+  @media (max-width:400px) {
+    margin-top: 40px;
+  }
+
+  div.container {
+    display: grid;
+
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    margin-top: -270px;
+    grid-row-gap: 50px;
+    grid-column-gap: 15px;
+  }
+}
