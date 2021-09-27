@@ -40,3 +40,10 @@ npm install (Instalar as dependencias necessárias pro funcionamento)
 ```sh
 npm run start (Iniciar)
 ```
+
+## Autor :man_student:
+
+**Rodrigo Leonardo Mattos**
+
+* Github: [@mattosrodrigo](https://github.com/mattosrodrigo)
+* LinkedIn: [@mattosrodrigo](https://linkedin.com/in/mattosrodrigo)
