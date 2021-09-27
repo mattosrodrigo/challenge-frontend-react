@@ -11,7 +11,7 @@ Este projeto foi desenhado pela [LiveOn Baas](https://liveonbaas.com/?gclid=Cj0K
 
 > O layout deste projeto está disponível no [Figma](https://www.figma.com/file/b7EzpqbYSCIjj2OFHPGCqY/Live-On---Challenge-Frontend-React?node-id=0%3A1). :mage:
 
-### 🏠 [Página de Demonstração](https://challenge-frontend-liveon.vercel.app/)
+### [Página de Demonstração](https://challenge-frontend-liveon.vercel.app/) :house:
 
 ### Principais funcionalidades :abacus:
 
@@ -19,7 +19,7 @@ Este projeto foi desenhado pela [LiveOn Baas](https://liveonbaas.com/?gclid=Cj0K
 - [x] Criação do seu próprio time com a ferramenta de favoritar.
 - [x] Descrição, HQs e valores de compra.
 
-### Pré-requisitos
+### Pré-requisitos :eye_speech_bubble:
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
