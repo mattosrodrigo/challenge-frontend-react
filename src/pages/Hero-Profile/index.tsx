@@ -1,7 +1,6 @@
 import { useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
 import marvel from '../../services/marvel';
-
 import Header from '../../components/Header';
 import { Hero } from '../../components/HeroCard';
 import HeroCardHeader from '../../components/HeroCardHeader';
