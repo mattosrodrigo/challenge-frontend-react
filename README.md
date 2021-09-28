@@ -45,5 +45,5 @@ npm run start (Iniciar)
 
 **Rodrigo Leonardo Mattos**
 
-* Github: [@mattosrodrigo](https://github.com/mattosrodrigo)
-* LinkedIn: [@mattosrodrigo](https://linkedin.com/in/mattosrodrigo)
+Github: [@mattosrodrigo](https://github.com/mattosrodrigo) \
+LinkedIn: [@mattosrodrigo](https://linkedin.com/in/mattosrodrigo)
