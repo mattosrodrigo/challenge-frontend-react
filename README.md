@@ -13,6 +13,9 @@ Este projeto foi desenhado pela [LiveOn Baas](https://liveonbaas.com/). :supervi
 
 ### [Página de Demonstração](https://challenge-frontend-liveon.vercel.app/) :house:
 
+![GIF](https://media.giphy.com/media/yNrJv89sAQZNv4529X/giphy.gif?cid=790b7611530a317876a116d191768facb3ba3e7ad32b5bec&rid=giphy.gif&ct=g)
+![GIF](https://media.giphy.com/media/f34HbCnvy7EuV1L6Y0/giphy.gif)
+
 ### Principais funcionalidades :abacus:
 
 - [x] Busca por nome do Herói/Vilão
@@ -47,3 +50,4 @@ npm run start (Iniciar)
 
 Github: [@mattosrodrigo](https://github.com/mattosrodrigo) \
 LinkedIn: [@mattosrodrigo](https://linkedin.com/in/mattosrodrigo)
+
